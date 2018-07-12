@@ -5,3 +5,5 @@ Git is free software distributed under the GPL
 Git push to orign
 reating a new branch is quick and simple
 --no--ff
+work half
+continue to working
